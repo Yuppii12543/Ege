@@ -1,7 +1,2 @@
-# Test Yupii
+# Name: EGE
 
-**Exercise 1**
-
-```python
-print("hello")
-```
