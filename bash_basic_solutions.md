@@ -9,11 +9,11 @@ sudo ls -lhS /var/log | sort -h
 ```
 **Exercise 3**.
 ```bash
-nano firstname.txt
+nano Ege.txt
 ```
 **Exercise 4**.
 ```bash
-echo "OZSOY" > lastname.txt
+echo "OZSOY" > Ozsoy.txt
 ```
 **Exercise 5**.
 ```bash
